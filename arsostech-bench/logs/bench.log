@@ -1,0 +1,19 @@
+2026-02-24 21:38:26,257 DEBUG cd arsostech-bench && uv venv env --seed --python /opt/homebrew/bin/python3.14
+2026-02-24 21:38:27,406 LOG Getting frappe
+2026-02-24 21:38:27,406 DEBUG cd arsostech-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-16 --depth 1 --origin upstream
+2026-02-24 21:38:31,520 LOG Installing frappe
+2026-02-24 21:38:31,586 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench && uv pip install --quiet --upgrade -e /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/frappe  --python /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/bin/python
+2026-02-24 21:38:33,908 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/frappe && yarn install --check-files
+2026-02-24 21:38:48,323 DEBUG cd arsostech-bench && bench build
+2026-02-24 21:38:48,475 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build
+2026-02-24 21:39:07,610 LOG setting up backups
+2026-02-24 21:39:07,621 LOG backups were set up
+2026-02-24 21:39:07,621 INFO Bench arsostech-bench initialized
+2026-02-24 21:39:43,954 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench get-app file:///Users/wahab/Desktop/Projects/arsostech/erp-system --branch whitelabel-foundation
+2026-02-24 21:39:43,982 LOG Getting erp-system
+2026-02-24 21:39:43,982 DEBUG cd ./apps && git clone file:///Users/wahab/Desktop/Projects/arsostech/erp-system --branch whitelabel-foundation --depth 1 --origin upstream
+2026-02-24 21:39:46,501 LOG Installing erpnext
+2026-02-24 21:39:46,501 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench && uv pip install --quiet --upgrade -e /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/erpnext  --python /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/bin/python
+2026-02-24 21:39:47,453 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/erpnext && yarn install --check-files
+2026-02-24 21:39:47,787 DEBUG bench build --app erpnext
+2026-02-24 21:39:47,900 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build --app erpnext

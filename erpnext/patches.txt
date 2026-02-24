@@ -193,7 +193,7 @@ erpnext.patches.v13_0.delete_old_bank_reconciliation_doctypes
 erpnext.patches.v13_0.update_vehicle_no_reqd_condition
 erpnext.patches.v13_0.rename_membership_settings_to_non_profit_settings
 erpnext.patches.v13_0.setup_uae_vat_fields
-execute:frappe.db.set_value('System Settings', None, 'app_name', 'ERPNext')
+execute:frappe.db.set_value('System Settings', None, 'app_name', 'ERP')
 erpnext.patches.v12_0.purchase_receipt_status
 erpnext.patches.v13_0.fix_non_unique_represents_company
 erpnext.patches.v12_0.add_document_type_field_for_italy_einvoicing
@@ -267,7 +267,7 @@ erpnext.patches.v16_0.create_company_custom_fields
 
 [post_model_sync]
 erpnext.patches.v15_0.create_asset_depreciation_schedules_from_assets
-execute:frappe.delete_doc_if_exists('Workspace', 'ERPNext Integrations Settings')
+execute:frappe.delete_doc_if_exists('Workspace', 'ERPNext Integrations Settings') #historical - workspace name unchanged
 erpnext.patches.v14_0.update_posting_datetime_and_dropped_indexes #22-02-2024
 erpnext.patches.v14_0.rename_ongoing_status_in_sla_documents
 erpnext.patches.v14_0.delete_shopify_doctypes

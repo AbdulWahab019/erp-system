@@ -1,12 +1,12 @@
 app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_title = "ERP"
+app_publisher = "ArsosTech Pvt. Ltd."
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
-app_email = "hello@frappe.io"
+app_email = "contact@arsostech.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
+source_link = ""
 app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
 
 
@@ -474,16 +474,13 @@ scheduler_events = {
 	],
 }
 
-email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
+email_brand_image = "assets/erpnext/images/erpnext-logo.png"
 
-default_mail_footer = """
-	<span>
-		Sent via
-		<a class="text-muted" href="https://frappe.io/erpnext?source=via_email_footer" target="_blank">
-			ERPNext
-		</a>
-	</span>
-"""
+default_mail_footer = """<div style="padding:7px;text-align:right;color:#888">
+	<small>Sent via
+		<a style="color:#888" href="https://arsostech.com">ArsosTech ERP</a>
+	</small>
+</div>"""
 
 get_translated_dict = {("doctype", "Global Defaults"): "frappe.geo.country_info.get_translated_dict"}
 

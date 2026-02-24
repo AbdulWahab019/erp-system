@@ -1,7 +1,7 @@
 [project]
 name = "erpnext"
 authors = [
-    { name = "Frappe Technologies Pvt Ltd", email = "developers@frappe.io"}
+    { name = "ArsosTech Pvt. Ltd.", email = "contact@arsostech.com"}
 ]
 description = "Open Source ERP"
 requires-python = ">=3.10"
@@ -70,6 +70,6 @@ docstring-code-format = true
 
 
 [project.urls]
-Homepage = "https://frappe.io/erpnext"
-Repository = "https://github.com/frappe/erpnext.git"
-"Bug Reports" = "https://github.com/frappe/erpnext/issues"
+Homepage = "https://arsostech.com"
+Repository = "https://bitbucket.org/arsostech/erp-system.git"
+"Bug Reports" = "https://arsostech.com/support"
