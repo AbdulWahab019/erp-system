@@ -6,16 +6,26 @@
         },
         "required": [],
         "idx": 1,
-        "version": "16.9.0"
+        "version": "15.100.1"
     },
     "erpnext": {
         "is_repo": true,
         "resolution": {
-            "commit_hash": "9a0b54c649be924a23d6f1db7675f9df01416ebb",
-            "branch": "whitelabel-foundation"
+            "commit_hash": "b43bf30abcd86af78f4f67b3a4886bddfbc577f3",
+            "branch": "whitelabel-v15"
         },
         "required": [],
         "idx": 2,
-        "version": "16.6.1"
+        "version": "15.98.1"
+    },
+    "arsostech_whitelabel": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "6dbd4398815a5341cda456fdb2fe64917b1b10c1",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.1.0"
     }
 }

@@ -11,6 +11,7 @@ def execute():
 		if item.is_standard and item.route in (
 			"https://erpnext.com/docs/user/manual",
 			"https://docs.erpnext.com/docs/v14/user/manual/en/introduction",
+			"https://arsostech.com/docs",
 		):
 			item.route = "https://arsostech.com/docs"
 

@@ -10,7 +10,7 @@
  "icon": "integration",
  "idx": 0,
  "is_hidden": 0,
- "label": "ERPNext Integrations",
+ "label": "ERP Integrations",
  "links": [
   {
    "hidden": 0,
@@ -221,8 +221,8 @@
    "doc_view": "List",
    "label": "Browse Apps",
    "type": "URL",
-   "url": "https://frappecloud.com/marketplace"
+   "url": "https://arsostech.com/marketplace"
   }
  ],
- "title": "ERPNext Integrations"
+ "title": "ERP Integrations"
 }

@@ -1,2 +1,3 @@
 frappe
 erpnext
+arsostech_whitelabel

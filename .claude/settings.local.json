@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(sips:*)"
+      "Bash(sips:*)",
+      "Bash(bash scripts/check-branding.sh:*)",
+      "Bash(bench:*)"
     ]
   }
 }

@@ -1,19 +1,43 @@
-2026-02-24 21:38:26,257 DEBUG cd arsostech-bench && uv venv env --seed --python /opt/homebrew/bin/python3.14
-2026-02-24 21:38:27,406 LOG Getting frappe
-2026-02-24 21:38:27,406 DEBUG cd arsostech-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-16 --depth 1 --origin upstream
-2026-02-24 21:38:31,520 LOG Installing frappe
-2026-02-24 21:38:31,586 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench && uv pip install --quiet --upgrade -e /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/frappe  --python /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/bin/python
-2026-02-24 21:38:33,908 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/frappe && yarn install --check-files
-2026-02-24 21:38:48,323 DEBUG cd arsostech-bench && bench build
-2026-02-24 21:38:48,475 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build
-2026-02-24 21:39:07,610 LOG setting up backups
-2026-02-24 21:39:07,621 LOG backups were set up
-2026-02-24 21:39:07,621 INFO Bench arsostech-bench initialized
-2026-02-24 21:39:43,954 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench get-app file:///Users/wahab/Desktop/Projects/arsostech/erp-system --branch whitelabel-foundation
-2026-02-24 21:39:43,982 LOG Getting erp-system
-2026-02-24 21:39:43,982 DEBUG cd ./apps && git clone file:///Users/wahab/Desktop/Projects/arsostech/erp-system --branch whitelabel-foundation --depth 1 --origin upstream
-2026-02-24 21:39:46,501 LOG Installing erpnext
-2026-02-24 21:39:46,501 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench && uv pip install --quiet --upgrade -e /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/erpnext  --python /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/bin/python
-2026-02-24 21:39:47,453 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/erpnext && yarn install --check-files
-2026-02-24 21:39:47,787 DEBUG bench build --app erpnext
-2026-02-24 21:39:47,900 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build --app erpnext
+2026-02-25 00:16:09,966 DEBUG cd arsostech-bench && uv venv env --seed --python /opt/homebrew/bin/python3.12
+2026-02-25 00:16:11,531 LOG Getting frappe
+2026-02-25 00:16:11,531 DEBUG cd arsostech-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2026-02-25 00:16:16,564 LOG Installing frappe
+2026-02-25 00:16:16,565 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench && uv pip install --quiet --upgrade -e /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/frappe  --python /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/bin/python
+2026-02-25 00:16:18,793 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/frappe && yarn install --check-files
+2026-02-25 00:16:29,101 DEBUG cd arsostech-bench && bench build
+2026-02-25 00:16:29,253 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build
+2026-02-25 00:16:47,010 LOG setting up backups
+2026-02-25 00:16:47,022 LOG backups were set up
+2026-02-25 00:16:47,022 INFO Bench arsostech-bench initialized
+2026-02-25 00:16:59,381 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench get-app file:///Users/wahab/Desktop/Projects/arsostech/erp-system --branch whitelabel-v15
+2026-02-25 00:16:59,410 LOG Getting erp-system
+2026-02-25 00:16:59,410 DEBUG cd ./apps && git clone file:///Users/wahab/Desktop/Projects/arsostech/erp-system --branch whitelabel-v15 --depth 1 --origin upstream
+2026-02-25 00:17:05,549 LOG Installing erpnext
+2026-02-25 00:17:05,550 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench && uv pip install --quiet --upgrade -e /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/erpnext  --python /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/bin/python
+2026-02-25 00:17:06,896 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/erpnext && yarn install --check-files
+2026-02-25 00:17:07,394 DEBUG bench build --app erpnext
+2026-02-25 00:17:07,603 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build --app erpnext
+2026-02-25 00:17:22,845 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench get-app file:///Users/wahab/Desktop/Projects/arsostech/arsostech_whitelabel
+2026-02-25 00:17:22,873 LOG Getting arsostech_whitelabel
+2026-02-25 00:17:22,874 DEBUG cd ./apps && git clone file:///Users/wahab/Desktop/Projects/arsostech/arsostech_whitelabel  --depth 1 --origin upstream
+2026-02-25 00:17:22,940 LOG Installing arsostech_whitelabel
+2026-02-25 00:17:22,941 DEBUG cd /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench && uv pip install --quiet --upgrade -e /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/apps/arsostech_whitelabel  --python /Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/bin/python
+2026-02-25 00:17:23,396 DEBUG bench build --app arsostech_whitelabel
+2026-02-25 00:17:23,526 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build --app arsostech_whitelabel
+2026-02-25 00:17:36,422 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench new-site arsostech.localhost --admin-password arsos-admin-123 --help
+2026-02-25 00:17:50,439 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench new-site arsostech.localhost --admin-password arsos-admin-123 --help
+2026-02-25 00:17:54,501 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench new-site arsostech.localhost --admin-password arsos-admin-123
+2026-02-25 00:19:34,587 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench new-site arsostech.localhost --admin-password arsos-admin-123
+2026-02-25 00:20:02,062 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench new-site arsostech.localhost --admin-password arsos-admin-123
+2026-02-25 00:20:30,144 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench new-site arsostech.localhost --admin-password arsos-admin-123
+2026-02-25 00:20:59,967 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost install-app erpnext
+2026-02-25 00:22:09,220 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost install-app arsostech_whitelabel
+2026-02-25 00:22:16,371 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench start
+2026-02-25 00:22:16,723 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench serve --port 8000
+2026-02-25 00:22:16,725 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench watch
+2026-02-25 00:22:16,725 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench schedule
+2026-02-25 00:22:16,725 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench worker
+2026-02-25 00:22:45,855 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost migrate
+2026-02-25 00:27:31,920 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost clear-cache
+2026-02-25 00:30:05,964 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost console
+2026-02-25 00:30:58,933 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost execute frappe.get_doc("White Label Settings").as_dict()

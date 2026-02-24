@@ -6,7 +6,7 @@ redis_queue: redis-server config/redis_queue.conf
 web: bench serve  --port 8000
 
 
-socketio: /Users/wahab/.nvm/versions/node/v24.14.0/bin/node apps/frappe/socketio.js
+socketio: /Users/wahab/.nvm/versions/node/v20.12.1/bin/node apps/frappe/socketio.js
 
 
 watch: bench watch

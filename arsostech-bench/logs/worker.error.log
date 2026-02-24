@@ -1,0 +1,346 @@
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/worker.py:1170: DeprecationWarning: This process (pid=49057) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  child_pid = os.fork()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/passlib/utils/__init__.py:854: DeprecationWarning: 'crypt' is deprecated and slated for removal in Python 3.13
+  from crypt import crypt as _crypt
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/whoosh/codec/whoosh3.py:1116: SyntaxWarning: "is" with 'int' literal. Did you mean "=="?
+  elif fixedsize is 0:
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/worker.py:1170: DeprecationWarning: This process (pid=49057) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  child_pid = os.fork()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/passlib/utils/__init__.py:854: DeprecationWarning: 'crypt' is deprecated and slated for removal in Python 3.13
+  from crypt import crypt as _crypt
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/worker.py:1170: DeprecationWarning: This process (pid=49057) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  child_pid = os.fork()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/passlib/utils/__init__.py:854: DeprecationWarning: 'crypt' is deprecated and slated for removal in Python 3.13
+  from crypt import crypt as _crypt
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/worker.py:1170: DeprecationWarning: This process (pid=49057) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  child_pid = os.fork()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/passlib/utils/__init__.py:854: DeprecationWarning: 'crypt' is deprecated and slated for removal in Python 3.13
+  from crypt import crypt as _crypt
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/worker.py:1170: DeprecationWarning: This process (pid=49057) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  child_pid = os.fork()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/passlib/utils/__init__.py:854: DeprecationWarning: 'crypt' is deprecated and slated for removal in Python 3.13
+  from crypt import crypt as _crypt
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/worker.py:1170: DeprecationWarning: This process (pid=49057) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  child_pid = os.fork()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/passlib/utils/__init__.py:854: DeprecationWarning: 'crypt' is deprecated and slated for removal in Python 3.13
+  from crypt import crypt as _crypt
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/worker.py:1170: DeprecationWarning: This process (pid=49057) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  child_pid = os.fork()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/passlib/utils/__init__.py:854: DeprecationWarning: 'crypt' is deprecated and slated for removal in Python 3.13
+  from crypt import crypt as _crypt
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:227: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return calendar.timegm(datetime.datetime.utcnow().utctimetuple())
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
+/Users/wahab/Desktop/Projects/arsostech/erp-system/arsostech-bench/env/lib/python3.12/site-packages/rq/utils.py:128: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow()
