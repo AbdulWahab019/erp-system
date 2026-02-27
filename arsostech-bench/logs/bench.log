@@ -41,3 +41,26 @@
 2026-02-25 00:27:31,920 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost clear-cache
 2026-02-25 00:30:05,964 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost console
 2026-02-25 00:30:58,933 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --site arsostech.localhost execute frappe.get_doc("White Label Settings").as_dict()
+2026-02-25 18:05:25,993 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --verbose --site all backup
+2026-02-26 06:00:02,604 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --verbose --site all backup
+2026-02-26 12:00:04,950 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --verbose --site all backup
+2026-02-27 00:00:03,560 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --verbose --site all backup
+2026-02-27 06:05:35,804 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench --verbose --site all backup
+2026-02-28 00:34:09,468 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build
+2026-02-28 00:34:26,574 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench start
+2026-02-28 00:34:27,319 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench watch
+2026-02-28 00:34:27,321 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench worker
+2026-02-28 00:34:27,322 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench serve --port 8000
+2026-02-28 00:34:27,322 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench schedule
+2026-02-28 00:34:46,095 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench start
+2026-02-28 00:34:46,394 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench schedule
+2026-02-28 00:34:46,395 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench worker
+2026-02-28 00:34:46,395 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench serve --port 8000
+2026-02-28 00:34:46,395 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench watch
+2026-02-28 00:38:44,182 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build
+2026-02-28 00:39:01,035 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench build
+2026-02-28 00:40:01,915 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench start
+2026-02-28 00:40:02,256 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench serve --port 8000
+2026-02-28 00:40:02,257 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench worker
+2026-02-28 00:40:02,258 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench schedule
+2026-02-28 00:40:02,261 INFO /Library/Frameworks/Python.framework/Versions/3.10/bin/bench watch
